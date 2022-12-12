@@ -1,7 +1,12 @@
 # smart-transit
 Collection of work of Lehigh Capstone Groups on the Smart Transit team. 
-## Inital Contributors
+## Initial Contributors
 Kieran O'Connor
-Garret Kreeger
+Garrett Kreeger
 Gabby Nuzzolese
 Matt Piriya
+
+
+### Traffic Analysis
+
+Data can be found [here](https://github.com/kieranoconnor/smart-transit)
